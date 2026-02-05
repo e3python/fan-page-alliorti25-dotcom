@@ -1,0 +1,19 @@
+img {
+    width: 200px;
+    float: right;
+    width: 200px;
+    border-radius: 10px;
+
+}
+
+
+body {
+  background-color:rgb(174, 135, 211);
+  color:purple;
+}
+  
+img {
+    width: 100px;
+    float: right;
+    width: 100px;
+    border-radius: 10px;
